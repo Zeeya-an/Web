@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Bagbag - Index</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link
+        rel="stylesheet"
+        href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css"
+        />
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Top Bar ======= -->
+  <section id="topbar" class="d-flex align-items-center">
+    <div class="container d-flex justify-content-center justify-content-md-between">
+      <div class="contact-info d-flex align-items-center">
+        <i class="bi bi-envelope d-flex align-items-center"><a href="https://www.google.com/gmail/about/">BagBagOnline@gmail.com</a></i>
+        <i class="bi bi-phone d-flex align-items-center ms-4"><span>+234 7082 1032 91</span></i>
+      </div>
+      <div class="social-links d-none d-md-flex align-items-center">
+        <a href="https://twitter.com" class="twitter"><i class="bi bi-twitter"></i></a>
+        <a href="https://www.facebook.com/" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/accounts/login/" class="instagram"><i class="bi bi-instagram"></i></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="d-flex align-items-center">
+    <div class="container d-flex justify-content-between align-items-center">
+
+      <div class="logo">
+        <h1><a href="index.html">Bag<i><small>bag<small></i></a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="active" href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
+          <li class="dropdown"><a href="brands.html"><span>Brands</span><i class="bi bi-chevron-down"></i></a>
+            <ul>  
+              <li><a href="brands.html#chanel"><span>Chanel</span></a>
+              <li><a href="brands.html#dior"><span>Dior</span></a>
+              <li><a href="brands.html#givenchy"><span>Givenchy</span></a>
+              <li><a href="brands.html#louisVuitton"><span>louis Vuitton</span></a>
+              <li><a href="brands.html#prada"><span>Prada</span></a>
+              <li><a href="brands.html#ysl"><span>Yves Saint Laurent</span></a>
+            </ul>  
+          </li>
+          <li class="dropdown"><a href="#"><span>Variety</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>  
+              <li class="dropdown"><a href="women.html"><span>Women's bags</span><i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="women.html#hand">Hand bags</a></li>
+                  <li><a href="women.html#tote">Tote bags</a></li>
+                  <li><a href="women.html#beach">Beach bags</a></li> 
+                  <li><a href="women.html#mkup">Makeup bags</a></li> 
+                  <li><a href="women.html#lunch">Lunch bags</a></li>               
+                  <li><a href="women.html#lap">Laptop bags</a></li>                  
+                  <li><a href="women.html#back">Backpacks</a></li>
+                </ul>
+              </li>
+              <li class="dropdown"><a href="men.html"><span>Men's bags</span><i class="bi bi-chevron-right"></i></a>
+              <ul>
+                  <li><a href="men.html#back">Backpacks</a></li> 
+                  <li><a href="men.html#lap">Laptop bags</a></li> 
+                  <li><a href="men.html#beach">Beach bags</a></li>               
+                  <li><a href="men.html#waist">Waist bags</a></li>                  
+                  <li><a href="men.html#lunch">Lunch bags</a></li>
+            </ul>
+          </li>
+          </ul>
+          </li>
+          <li class="dropdown"><a href="contact.html"><span>Contact</span><i class="bi bi-chevron-down"></i></a>
+            <ul>  
+              <li><a href="sitemap.html#sitemap"><span>Site map</span></a>
+              <li><a href="contact.html#sitemap"><span>Queries</span></a>
+            </ul>
+          </li>
+          <li><a href="#"><span>Cart</span><i class="bi bi-cart-dash"></i></a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container">
+      <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+
+        <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+        <div class="carousel-inner" role="listbox">
+
+          <!-- Bag Slide 1 -->
+          <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpg)">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Bag<i><small>Bag<small></i></span></h2>
+                <p class="animate__animated animate__fadeInUp">Where you can find any bag you're looking for easily, and at an affordable price.</p>
+                <a href="about.html" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Bag Slide 2 -->
+          <div class="carousel-item" style="background: url(assets/img/slide/slide-2.jpg)">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown">Various<span>Brands</span></h2>
+                <p class="animate__animated animate__fadeInUp">Easy access to diffrent types of bags, from a good number of brands.</p>
+                <a href="about.html" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Bag Slide 3 -->
+          <div class="carousel-item" style="background: url(assets/img/slide/slide-5.jpg)">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown">Diffrent<span>Taste?</span></h2>
+                <p class="animate__animated animate__fadeInUp">Get a bag that will fit you perfectly, for whatever you need it for.</p>
+                <a href="about.html" class="btn-get-started animate__animated animate__fadeInUp">Read More</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+        </a>
+
+        <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+          <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+        </a>
+
+      </div>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= Featured Section ======= -->
+    <section id="featured" class="featured">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-4" >
+            <div class="icon-box">
+              <i class="bi bi-handbag" ></i>
+              <h3><a href="gallery.html">Hand bags</a></h3>
+              <p>All available designs, at wonderfull prices.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 mt-4 mt-lg-0">
+            <div class="icon-box">
+              <i class="bi bi-basket"></i>
+              <h3><a href="gallery.html">Basket bags</a></h3>
+              <p>Beautiful products.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 mt-4 mt-lg-0">
+            <div class="icon-box">
+              <i class="bi bi-bag"></i>
+              <h3><a href="gallery.html">Others</a></h3>
+              <p>Check them out now!!</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Featured Section -->
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-6">
+            <img src="assets/img/about.jpg" class="img-fluid" alt="" style="border-radius:30px;">
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0 content">
+            <h3>Bagbag is an online store solely for bags, you just need to visit.</h3>
+            <ul>
+              <li><i class="bi bi-check-circle"></i>Reliable.</li>
+              <li><i class="bi bi-check-circle"></i>Affordable.</li>
+              <li><i class="bi bi-check-circle"></i>Beautiful.</li>
+            </ul>
+            <p>
+              You're welcome anytime to visit our website, we will always be here...
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+     <!-- ======= Brands Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Featured Brands</h2>
+          <p>These are all our features brands.</p>
+        </div>
+
+        <div class="clients-slider swiper">
+          <div class="swiper-wrapper align-items-center">
+            <div class="swiper-slide"><a href="brands.html#chanel"><img src="assets/img/logo/client-1.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="brands.html#dior"><img src="assets/img/logo/client-2.png" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="brands.html#givenchy"><img src="assets/img/logo/client-3.png" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="brands.html#louisVuitton"><img src="assets/img/logo/client-4.png" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="brands.html#prada"><img src="assets/img/logo/client-5.png" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="brands.html#ysl"><img src="assets/img/logo/client-6.jpg" class="img-fluid" alt=""></a></div>
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Brands Section -->
+
+
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="about.html">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="brands.html">Brands</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="gallery.html">Gallery</a></li>
+            </ul>
+          </div>
+          
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contact Us</h4>
+            <p>
+              Area 11 city center, Gimbia Street <br>
+              Abuja.<br>
+              Nigeria <br><br>
+              <strong>Phone:</strong> +234 7082 1032 91<br>
+              <strong>Email:</strong> BagBagOnline@gmail.com<br>
+            </p>
+
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <div class="social-links mt-3">
+              <a href="https://twitter.com" class="twitter"><i class="bi bi-twitter"></i></a>
+        <a href="https://www.facebook.com/" class="facebook"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/accounts/login/" class="instagram"><i class="bi bi-instagram"></i></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Bag<i>Bag</i></span></strong>. All Rights Reserved
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
